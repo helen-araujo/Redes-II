@@ -1,0 +1,29 @@
+Utilizando o Sistema Operacional Linux e o Python desenvolva um software com as seguintes características:
+1. O programa deverá ter uma função ou método separado.
+a) Verificar se a internet está ativa ou não
+b) Calcular quanto tempo para fazer uma requisição no site http://www.google.com
+c) Obter informações sobre o IP de seu computador
+d) Obter informações sobre o seu MAC
+e) Obter informações sobre seu IP público (IP do NAT)
+
+2. Utilizando os comandos do Linux (bash) criar um script para realizar as mesmas tarefas:
+a) Verificar se a internet está ativa ou não
+b) Calcular quanto tempo para fazer uma requisição no site http://www.google.com
+c) Obter informações sobre o IP de seu computador
+d) Obter informações sobre o seu MAC
+e) Obter informações sobre seu IP público (IP do NAT)
+
+Regras:
+1. Python 3.9 e Sistema Operacional Linux 
+2. Comentários no código são obrigatórios
+3. Trabalhos copiados da Internet ou de colegas serão anulados.
+4. Grupos de até 5 discentes.
+5. Todos os alunos deverão fazer upload do trabalho.
+6. Plágios ou cópias serão anuladas.
+7. Penalização de 3 pontos por dia de atraso.
+8. Sistema Operacional Linux
+9. Trabalhos com erros de compilação ou execução serão anulados.
+10. Cada problema deverá estar em um script separado com seu respectivo log. : a) trab2_1.py trab2_2.py trab2_3.py trab2_4.py trab2_5.py b) log1.txt log2.txt log3.txt log4.txt log5.txt
+11. Os trabalhos deverão ser compactados e anexados ao sistema.
+12. Em cada script ou log deverá ser colocado o nome dos participantes.
+13. Os códigos devem ser comentados
